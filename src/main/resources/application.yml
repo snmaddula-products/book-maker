@@ -1,0 +1,4 @@
+gitlab:
+  private-token: uXJZes3C49uQf5jaXSPo
+  base-url: https://gitlab.com/api/v4
+  roles-uri: /groups/4190436/projects
